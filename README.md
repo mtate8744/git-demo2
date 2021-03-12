@@ -1,9 +1,7 @@
 # Demo Git Repository
 
-This is rthe first file in this repo.
+This is rth
 
-## Ipsum Below
+## Website Contents
 
-this is whatever I wnat it to sayclearnotnotepad++
-
-just a bunch of jargon
+1. index.html
